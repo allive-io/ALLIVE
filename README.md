@@ -1,2 +1,1 @@
-# ALLIVE
-Intelligent Healthcare Blockchain Ecosystem
+<h1 align="center">ALLIVE </h1>
